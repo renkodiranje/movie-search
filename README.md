@@ -1,6 +1,6 @@
 Movie search
 
-#his application allows searching movies, from a json file. I used ReactJS
+This application allows searching movies, from a json file.It was made in ReactJS and CSS.
 
 # Getting Started with Create React App
 

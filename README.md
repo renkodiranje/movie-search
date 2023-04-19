@@ -1,10 +1,10 @@
-#Movie search
+Movie search
 
-##This application allows searching movies, from a json file. I used ReactJS
+#his application allows searching movies, from a json file. I used ReactJS
 
 # Getting Started with Create React App
 
-##This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
